@@ -8,7 +8,7 @@ Each image on the webpage will show alternative text if the image does not load.
 The only function of the webpage that has changed is the top URL links now really bring you to the webpage described.
 
 ## Horiseon Webpage link 
-Webpage URL: https://cdunahee36.github.io/
+Webpage URL: https://cdunahee36.github.io/Week-Number-1-Homework
 
 ## Horiseon Webpage Screenshot links
 https://user-images.githubusercontent.com/71745205/94390983-e6a03000-0119-11eb-8632-9c5acc332248.png
